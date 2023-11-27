@@ -1,3 +1,0 @@
-WTF does the last part of the 1st code do?
-
-Where does PokemonListItem come from? Is it the synthax?
